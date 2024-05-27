@@ -8,7 +8,7 @@
 
 ****
 
-This is a public dataset for MR2-Net segmentation; the link is [here](https://zenodo.org/records/11281652). 
+This is a public dataset for MR2-Net; the link is [here](https://zenodo.org/records/11281652). 
 
 ![image](https://github.com/jiongzhang-john/OCTA-Stitching-Dataset/blob/main/link.png)
 ****
