@@ -13,6 +13,9 @@ Our OCTA image splicing dataset contains two main stages, where the first stage 
 
 ![image](https://github.com/jiongzhang-john/OCTA-Stitching-Dataset/blob/main/Image%20Registration.png)
 
+![image](https://github.com/jiongzhang-john/OCTA-Stitching-Dataset/blob/main/Image%20Fusion.png)
+
+
 ****
 
 ****
