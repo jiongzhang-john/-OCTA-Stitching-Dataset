@@ -8,7 +8,7 @@
 ![image](https://github.com/jiongzhang-john/OCTA-Stitching-Dataset/blob/main/label.png)
 ****
 
-****
+## Dataset composition
 Our OCTA image splicing dataset contains two main stages, where the first stage is the image alignment stage, which consists of a reference image, a target image, and a label; and the second stage is the image fusion stage, which contains five sub-datasets, consisting of center, input1, input2, input3, and input4. The following shows the data composition of each stage.
 
 ![image](https://github.com/jiongzhang-john/OCTA-Stitching-Dataset/blob/main/Image%20Registration.png)
@@ -16,7 +16,6 @@ Our OCTA image splicing dataset contains two main stages, where the first stage 
 ![image](https://github.com/jiongzhang-john/OCTA-Stitching-Dataset/blob/main/Image%20Fusion.png)
 
 
-****
 
 ****
 
