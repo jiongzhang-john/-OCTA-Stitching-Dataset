@@ -25,3 +25,7 @@ This is a public dataset for MR2-Net; the link is [here](https://zenodo.org/reco
 
 ![image](https://github.com/jiongzhang-john/OCTA-Stitching-Dataset/blob/main/link.png)
 ****
+
+Citation
+
+Mao H, Ma Y, Zhang D, Meng Y, Ma S, Qiao Y, Fu H, Shan C, Chen D, Zhao Y, Zhang J. MR2-Net: Retinal OCTA Image Stitching via Multi-Scale Representation Learning and Dynamic Location Guidance. IEEE J Biomed Health Inform. 2024 Sep 25;PP. doi: 10.1109/JBHI.2024.3467256. Epub ahead of print. PMID: 39321005.
